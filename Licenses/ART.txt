@@ -1,0 +1,3 @@
+Tavern background, v0.1.2 full portraits and independent avatars generated with the built-in OpenAI image tool for this project. Shop illustrations are rectangular UI crops of the full portraits and share their textures.
+Production was explicitly authorized without per-image review. Original prompts, selected files and crop windows: docs/character-design/v0.1.2-production/.
+Skill icons, round capybara pieces and barrel frames are original resolution-independent drawings.
