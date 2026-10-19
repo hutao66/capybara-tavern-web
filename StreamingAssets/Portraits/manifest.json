@@ -1,0 +1,338 @@
+{
+  "encoding": "jpeg-1024-q85-v1",
+  "entries": [
+    {
+      "resourcePath": "Characters/v012/form_cai_yan_jue-full",
+      "sourceSha256": "061f5f211bce1b39c5832d6f050ff655702adf5770c53f9740ec7670659eea80",
+      "file": "061f5f211bce1b39c5832d6f050ff655702adf5770c53f9740ec7670659eea80-1024-q85-v1.jpg",
+      "sha256": "d3ce732dcbb8a8156a464d8414953a5207d17c9bf6e1af90ec0bc1c864b47cee",
+      "width": 819,
+      "height": 1024,
+      "bytes": 156384
+    },
+    {
+      "resourcePath": "Characters/v012/form_cai_yan_shang-full",
+      "sourceSha256": "e173a13d5d6017677421e9c35180fa79cdd9c7a68a8f5258562dfa45030da295",
+      "file": "e173a13d5d6017677421e9c35180fa79cdd9c7a68a8f5258562dfa45030da295-1024-q85-v1.jpg",
+      "sha256": "fd012aa9ed78f5e3f35bdedabbb65d9b9ea6466ee88250a22e4d0368e21009a5",
+      "width": 819,
+      "height": 1024,
+      "bytes": 157107
+    },
+    {
+      "resourcePath": "Characters/v012/form_cai_yan_yu-full",
+      "sourceSha256": "0a2b9b6522006f2320c04df554fc8953761e0abbafb926c597f23ef490c42f30",
+      "file": "0a2b9b6522006f2320c04df554fc8953761e0abbafb926c597f23ef490c42f30-1024-q85-v1.jpg",
+      "sha256": "32696ee5efc0955d8156af81874e2dab37dad9d04932eacba724bf8dad6a24a7",
+      "width": 819,
+      "height": 1024,
+      "bytes": 147379
+    },
+    {
+      "resourcePath": "Characters/v012/form_cai_yan_zhi-full",
+      "sourceSha256": "0aff59f901a1293bf43560938e855c140d482e57f1d50dc23b4c292ca781efc3",
+      "file": "0aff59f901a1293bf43560938e855c140d482e57f1d50dc23b4c292ca781efc3-1024-q85-v1.jpg",
+      "sha256": "4c8ac97254a32b9e020c89103b977627f44408e327fd25a451dd5808dc1aaed1",
+      "width": 819,
+      "height": 1024,
+      "bytes": 166631
+    },
+    {
+      "resourcePath": "Characters/v012/form_liu_bang_gaozu-full",
+      "sourceSha256": "8ed4bec0322a392ffd2a3c0a0a29623d0ff8e38cb82657b1ffe083cb5c6f2070",
+      "file": "8ed4bec0322a392ffd2a3c0a0a29623d0ff8e38cb82657b1ffe083cb5c6f2070-1024-q85-v1.jpg",
+      "sha256": "964529e4ed198f3e083791484e405ea5856066fbf1f7968a0093de922ed9bf82",
+      "width": 819,
+      "height": 1024,
+      "bytes": 124572
+    },
+    {
+      "resourcePath": "Characters/v012/form_liu_bang_hanzhong-full",
+      "sourceSha256": "4f809f43eaaffee06be38d32395a415e7cb93f8a0bc69766295bade4dfb4dca6",
+      "file": "4f809f43eaaffee06be38d32395a415e7cb93f8a0bc69766295bade4dfb4dca6-1024-q85-v1.jpg",
+      "sha256": "db65907fc52d851f926e74512c33584f7ca72c0d772e40328a60cc6e4403fd06",
+      "width": 819,
+      "height": 1024,
+      "bytes": 124568
+    },
+    {
+      "resourcePath": "Characters/v012/form_wujian_shaonv-full",
+      "sourceSha256": "a88fec87913af0a3ceddb2219912e90ba22903bd89fc8acb64c64dd702cd3111",
+      "file": "a88fec87913af0a3ceddb2219912e90ba22903bd89fc8acb64c64dd702cd3111-1024-q85-v1.jpg",
+      "sha256": "02f24ed0ce7bb93d6cb7192ed8984b9330b5ac96c29e15d6098bed578479ad6e",
+      "width": 819,
+      "height": 1024,
+      "bytes": 128504
+    },
+    {
+      "resourcePath": "Characters/v012/form_xima_guniang-full",
+      "sourceSha256": "aa8f98f6af1690898c4a22c38bc63e1537b90d535aac5a57ff4faad6d6bc1d8c",
+      "file": "aa8f98f6af1690898c4a22c38bc63e1537b90d535aac5a57ff4faad6d6bc1d8c-1024-q85-v1.jpg",
+      "sha256": "94beb82126a1fb703e76732d4c650e7b123de49020e8d8984aa711497db973ae",
+      "width": 819,
+      "height": 1024,
+      "bytes": 78659
+    },
+    {
+      "resourcePath": "Characters/v012/form_yuji-full",
+      "sourceSha256": "e673293220bd6d5616dcc1cd52d651ef248f0b4b2419c241fcaf0cc6e46ef184",
+      "file": "e673293220bd6d5616dcc1cd52d651ef248f0b4b2419c241fcaf0cc6e46ef184-1024-q85-v1.jpg",
+      "sha256": "0632d19231c6a33c4c0cf4c01e329ba329920f5347f827750d2738f6b2dbfaa7",
+      "width": 819,
+      "height": 1024,
+      "bytes": 100178
+    },
+    {
+      "resourcePath": "Characters/v012/hero_cai_yan-full",
+      "sourceSha256": "ec7f1aa01e4acd287665af3e3540ebb397378196b89485845a7ae6c70b09befd",
+      "file": "ec7f1aa01e4acd287665af3e3540ebb397378196b89485845a7ae6c70b09befd-1024-q85-v1.jpg",
+      "sha256": "6c2809f48bf46e039829393706ce748daf564a59edd4b4d66b1d5dd344d8bf0a",
+      "width": 819,
+      "height": 1024,
+      "bytes": 143359
+    },
+    {
+      "resourcePath": "Characters/v012/hero_cao_can-full",
+      "sourceSha256": "b6c1d180cd9bbb893994a51f5125c74c081c3893403ab0c6fa1d6119b323c2f2",
+      "file": "b6c1d180cd9bbb893994a51f5125c74c081c3893403ab0c6fa1d6119b323c2f2-1024-q85-v1.jpg",
+      "sha256": "2d84954aa7612a3cfbf494064000251bf2206d84a12c1e6f0c6580de427d1c58",
+      "width": 819,
+      "height": 1024,
+      "bytes": 121128
+    },
+    {
+      "resourcePath": "Characters/v012/hero_chen_ping-full",
+      "sourceSha256": "f2eef094cc5dc37b6ae0f142ce30f142d39992b382a11f9ab5c189699206a000",
+      "file": "f2eef094cc5dc37b6ae0f142ce30f142d39992b382a11f9ab5c189699206a000-1024-q85-v1.jpg",
+      "sha256": "5c1c12af89b0e4017869e06639ef24c74efe70de45e91122838d98c12a99fb34",
+      "width": 819,
+      "height": 1024,
+      "bytes": 80279
+    },
+    {
+      "resourcePath": "Characters/v012/hero_ding_gong-full",
+      "sourceSha256": "8dc0268bbb4278a09943f4fa7fd40dca20c64b72ef2ba7cd542eec169e0319f4",
+      "file": "8dc0268bbb4278a09943f4fa7fd40dca20c64b72ef2ba7cd542eec169e0319f4-1024-q85-v1.jpg",
+      "sha256": "d542de3ef063dfcbe0c132d5acbd9ddc36739b751a0b90c0a3ede26877c42edf",
+      "width": 819,
+      "height": 1024,
+      "bytes": 107751
+    },
+    {
+      "resourcePath": "Characters/v012/hero_fan_kuai-full",
+      "sourceSha256": "ae84149c81c5a1bd93900bd52f8a573c55b901dd56e5111b453991f0c9e6f7f9",
+      "file": "ae84149c81c5a1bd93900bd52f8a573c55b901dd56e5111b453991f0c9e6f7f9-1024-q85-v1.jpg",
+      "sha256": "425478bfa53ad8ca25818ad6d8c6978ef0d16c624061e4376cb140987224a854",
+      "width": 819,
+      "height": 1024,
+      "bytes": 170528
+    },
+    {
+      "resourcePath": "Characters/v012/hero_fan_zeng-full",
+      "sourceSha256": "87057de2226d1b72465174dcbb73c1b9b3cb6c30bc876eb14557553874bafdfe",
+      "file": "87057de2226d1b72465174dcbb73c1b9b3cb6c30bc876eb14557553874bafdfe-1024-q85-v1.jpg",
+      "sha256": "c108633697dfe283d77d9b145a88ab0c32656c75927c0d3b32e8b648e01a1dd9",
+      "width": 819,
+      "height": 1024,
+      "bytes": 90465
+    },
+    {
+      "resourcePath": "Characters/v012/hero_gongsun_daniang-full",
+      "sourceSha256": "8bc42f401e16a19e2b66f12c45ce298356bc7ee66b7552e0a43794958f86a160",
+      "file": "8bc42f401e16a19e2b66f12c45ce298356bc7ee66b7552e0a43794958f86a160-1024-q85-v1.jpg",
+      "sha256": "ec2fa8fb2610285d0541d23e7fcd0982cbb5ab9b5cf1e8ea7e0a37253ae20bf7",
+      "width": 819,
+      "height": 1024,
+      "bytes": 139977
+    },
+    {
+      "resourcePath": "Characters/v012/hero_guan_ying-full",
+      "sourceSha256": "5688ba702390cdffc2ffe86e9c40de687da9af09943ba9958d8dbd912799d600",
+      "file": "5688ba702390cdffc2ffe86e9c40de687da9af09943ba9958d8dbd912799d600-1024-q85-v1.jpg",
+      "sha256": "2f0421a68496bbde5d37fd37151790e6576bceb436393d587b11d3a00de12946",
+      "width": 819,
+      "height": 1024,
+      "bytes": 149126
+    },
+    {
+      "resourcePath": "Characters/v012/hero_han_xin-full",
+      "sourceSha256": "36fbbdd4ca15e233de36ab8ce9ab9e38bb2c66c84e9c5934b71691212e0d03e4",
+      "file": "36fbbdd4ca15e233de36ab8ce9ab9e38bb2c66c84e9c5934b71691212e0d03e4-1024-q85-v1.jpg",
+      "sha256": "53f33131d1459ac66612e5a2c0d3ab0a5ce3d8fa59a6a61c9e75ac68cdd999ba",
+      "width": 819,
+      "height": 1024,
+      "bytes": 130688
+    },
+    {
+      "resourcePath": "Characters/v012/hero_ji_bu-full",
+      "sourceSha256": "94962678925f69e53df4829e8bc3d3558cd1363c9703c8025ef5094d91c84c72",
+      "file": "94962678925f69e53df4829e8bc3d3558cd1363c9703c8025ef5094d91c84c72-1024-q85-v1.jpg",
+      "sha256": "492c5bf1c13415df865c9b31bf393a131b690aba009030e60768e1b5a43e70c0",
+      "width": 409,
+      "height": 1024,
+      "bytes": 87936
+    },
+    {
+      "resourcePath": "Characters/v012/hero_li_qingzhao-full",
+      "sourceSha256": "e98388e571038a2cb9067c6d30abfbfc4e6208cb17d28ff9977b41d7d3959a4d",
+      "file": "e98388e571038a2cb9067c6d30abfbfc4e6208cb17d28ff9977b41d7d3959a4d-1024-q85-v1.jpg",
+      "sha256": "79cc2a72d5f7af171b65ee25fa0b5b9babaeb1c4c36792e6a1e036779ea8f285",
+      "width": 819,
+      "height": 1024,
+      "bytes": 142706
+    },
+    {
+      "resourcePath": "Characters/v012/hero_long_ju-full",
+      "sourceSha256": "32941cd3bb13372b157e319141a24bb1ee8b9d3a352767078d91a9980d00d612",
+      "file": "32941cd3bb13372b157e319141a24bb1ee8b9d3a352767078d91a9980d00d612-1024-q85-v1.jpg",
+      "sha256": "0d186b1d699b34fbc4e771bd7885771bd2d9c48759533519eefa21c9a13e1a26",
+      "width": 819,
+      "height": 1024,
+      "bytes": 140912
+    },
+    {
+      "resourcePath": "Characters/v012/hero_lv_zhu-full",
+      "sourceSha256": "a9a5c89bb662f8aee8f734013f9ca49649876816a25b296f64eccae52377c956",
+      "file": "a9a5c89bb662f8aee8f734013f9ca49649876816a25b296f64eccae52377c956-1024-q85-v1.jpg",
+      "sha256": "cd1526c476cf2096c8d76fb3486314d7f1b6be0be38bb3c049e4b16901dee25c",
+      "width": 819,
+      "height": 1024,
+      "bytes": 118047
+    },
+    {
+      "resourcePath": "Characters/v012/hero_nong_yu-full",
+      "sourceSha256": "b8749af4a6cc2fd87e9a56b2eb3eb3c9232a2a0bed29bbde4e3ef8219df8195a",
+      "file": "b8749af4a6cc2fd87e9a56b2eb3eb3c9232a2a0bed29bbde4e3ef8219df8195a-1024-q85-v1.jpg",
+      "sha256": "6e82e48f8f9416a5c45699a90f7daaa1963bfb37f7886e54f9506d666ca2c789",
+      "width": 819,
+      "height": 1024,
+      "bytes": 96338
+    },
+    {
+      "resourcePath": "Characters/v012/hero_su_xiaoxiao-full",
+      "sourceSha256": "7e67be9422ca90aa6a320e62bcac2f5dc2d00d8f055f5c9452d92092bddc0525",
+      "file": "7e67be9422ca90aa6a320e62bcac2f5dc2d00d8f055f5c9452d92092bddc0525-1024-q85-v1.jpg",
+      "sha256": "070bf7eddac8e17faff776742012f9f1ae573f1aee9e7ae65a95052dc3a109ee",
+      "width": 409,
+      "height": 1024,
+      "bytes": 87556
+    },
+    {
+      "resourcePath": "Characters/v012/hero_wang_qiang-full",
+      "sourceSha256": "a347e66fa4c6e02fc4076d5d67636bb83de274dff43f417534d37533e21c4e0c",
+      "file": "a347e66fa4c6e02fc4076d5d67636bb83de274dff43f417534d37533e21c4e0c-1024-q85-v1.jpg",
+      "sha256": "f8ea94230f3b04106b6276f63c91c7856feab6ab49748dc18103a98d32aebc47",
+      "width": 819,
+      "height": 1024,
+      "bytes": 112689
+    },
+    {
+      "resourcePath": "Characters/v012/hero_xiahou_ying-full",
+      "sourceSha256": "87e46f84e696867e6a45ba088048c1a6effdb1150bb4d2f1a7ee162a22e8e973",
+      "file": "87e46f84e696867e6a45ba088048c1a6effdb1150bb4d2f1a7ee162a22e8e973-1024-q85-v1.jpg",
+      "sha256": "0e43a9c267c347b6f52e140958b0bb37284247390751e52812e85f47f5a74d52",
+      "width": 819,
+      "height": 1024,
+      "bytes": 166041
+    },
+    {
+      "resourcePath": "Characters/v012/hero_xiang_sheng-full",
+      "sourceSha256": "71d9b5af6684e33fd11815305ef1c69e19225f7cd7c9c3926f7baf4954368427",
+      "file": "71d9b5af6684e33fd11815305ef1c69e19225f7cd7c9c3926f7baf4954368427-1024-q85-v1.jpg",
+      "sha256": "4b1631f4ffb1058a5594a432eb8249e73ed999c25782c0408cc7a1e23eb8ef1b",
+      "width": 819,
+      "height": 1024,
+      "bytes": 119129
+    },
+    {
+      "resourcePath": "Characters/v012/hero_xiang_yu-full",
+      "sourceSha256": "6ac11de6a55346d0facdc8dd07b440971da7e7c747fa2f6a4020c83b6521962e",
+      "file": "6ac11de6a55346d0facdc8dd07b440971da7e7c747fa2f6a4020c83b6521962e-1024-q85-v1.jpg",
+      "sha256": "9afcd4eb4f3000dd4ea4607779502fcb91fd636b580273350bd9869ce89d61a4",
+      "width": 819,
+      "height": 1024,
+      "bytes": 126439
+    },
+    {
+      "resourcePath": "Characters/v012/hero_xiang_zhuang-full",
+      "sourceSha256": "9df4d755566617a4454c8fefb98834450e23620c4fb54b2ea4a812f754d0cd60",
+      "file": "9df4d755566617a4454c8fefb98834450e23620c4fb54b2ea4a812f754d0cd60-1024-q85-v1.jpg",
+      "sha256": "60bdd95eaae731fad9f0f4bbb702072675980696757d450c55c28f61c9e587e9",
+      "width": 819,
+      "height": 1024,
+      "bytes": 112852
+    },
+    {
+      "resourcePath": "Characters/v012/hero_xiao_he-full",
+      "sourceSha256": "8ab67854f7b0549c1666a52517f272d2a57bdff8f3f0a535e7abb43c65864113",
+      "file": "8ab67854f7b0549c1666a52517f272d2a57bdff8f3f0a535e7abb43c65864113-1024-q85-v1.jpg",
+      "sha256": "497f3267761d426c30c5f3500d90cf89c5789da956b301208608a9561ce661c1",
+      "width": 819,
+      "height": 1024,
+      "bytes": 101744
+    },
+    {
+      "resourcePath": "Characters/v012/hero_xue_tao-full",
+      "sourceSha256": "a455f93f90f556ab76fa966431dfcab3031cef951d3a5fed600a931591ce3b0a",
+      "file": "a455f93f90f556ab76fa966431dfcab3031cef951d3a5fed600a931591ce3b0a-1024-q85-v1.jpg",
+      "sha256": "ef388b313d25f5b0f882a129a773c72d0158a80fe8a14031a6af59ce12901174",
+      "width": 819,
+      "height": 1024,
+      "bytes": 107216
+    },
+    {
+      "resourcePath": "Characters/v012/hero_yang_yuhuan-full",
+      "sourceSha256": "d719460428001c99816196dc75482c32d2ebf904da449cee6290e79532706ffc",
+      "file": "d719460428001c99816196dc75482c32d2ebf904da449cee6290e79532706ffc-1024-q85-v1.jpg",
+      "sha256": "6b0a228269ad8e89160b79c582155d2110e50f2bc2224d9dcc8db4a582d03d9c",
+      "width": 819,
+      "height": 1024,
+      "bytes": 119878
+    },
+    {
+      "resourcePath": "Characters/v012/hero_zhang_liang-full",
+      "sourceSha256": "4b7a2d272780f1c569db292a8a1207b4ca1739fe55d4b32625fc95a9492f3624",
+      "file": "4b7a2d272780f1c569db292a8a1207b4ca1739fe55d4b32625fc95a9492f3624-1024-q85-v1.jpg",
+      "sha256": "0899c8945642bdc348eb9bef0040186bd9c882ae6f936559c67671ac4016d5fb",
+      "width": 819,
+      "height": 1024,
+      "bytes": 99779
+    },
+    {
+      "resourcePath": "Characters/v012/hero_zhongli-full",
+      "sourceSha256": "30fbd072c5b21724a703961bbf397479e592976810447aed66f4a39b8bb6cc5e",
+      "file": "30fbd072c5b21724a703961bbf397479e592976810447aed66f4a39b8bb6cc5e-1024-q85-v1.jpg",
+      "sha256": "96f3a5267592ace40fccb35b86228eb191481ee5cb934167191634dc5d9d8360",
+      "width": 819,
+      "height": 1024,
+      "bytes": 140557
+    },
+    {
+      "resourcePath": "Characters/v012/hero_zhou_bo-full",
+      "sourceSha256": "5ef8f5c56d3eaa5d441edfcd178ab7981575dcf339beb8ef2cd141a837dfb158",
+      "file": "5ef8f5c56d3eaa5d441edfcd178ab7981575dcf339beb8ef2cd141a837dfb158-1024-q85-v1.jpg",
+      "sha256": "96283ada193b18e8ea6a5b2fa60f85e9296b3b072b4e37425dc6fa5270d57fa6",
+      "width": 819,
+      "height": 1024,
+      "bytes": 141075
+    },
+    {
+      "resourcePath": "Characters/v012/hero_zhuo_wenjun-full",
+      "sourceSha256": "3adc7dccf3f60996a0a283f78c242153d9fcbeeb924e2a91c6d080172b69eba1",
+      "file": "3adc7dccf3f60996a0a283f78c242153d9fcbeeb924e2a91c6d080172b69eba1-1024-q85-v1.jpg",
+      "sha256": "aefc40aedff7274130335f0377f83d000445633d3aea686c6a6b63b4b7af492f",
+      "width": 819,
+      "height": 1024,
+      "bytes": 139915
+    },
+    {
+      "resourcePath": "Characters/v012/yu_ziqi-full",
+      "sourceSha256": "0e48aab3c19c00f72f7de63fcb471fe41dcf2c47e870408bd02c399875068cb4",
+      "file": "0e48aab3c19c00f72f7de63fcb471fe41dcf2c47e870408bd02c399875068cb4-1024-q85-v1.jpg",
+      "sha256": "37d0a7a3951fdeef00ffbc1eb59875d7d833614e9dbf461ecfb9d81199e37d92",
+      "width": 819,
+      "height": 1024,
+      "bytes": 105788
+    }
+  ]
+}

@@ -2,5 +2,38 @@
 <html lang="zh-CN"><head><link rel="icon" href="data:,"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><title>温泉酒馆 · 自走棋 v0.1.2</title>
 <style>html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#213d32;font-family:system-ui,sans-serif;color:#f4e8c9}#unity-canvas{width:100%;height:100%;display:block}#loading{position:fixed;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;background:#f4eddc;color:#294c3d}h1{font-size:42px;letter-spacing:8px;margin:20px 0}p{color:#7c7c65;font-size:14px}progress{width:260px;height:8px;accent-color:#46735c}.seal{background:#a95038;color:#fff0d3;padding:12px;border-radius:8px;font-size:28px}#error{max-width:600px;padding:24px;color:#a54435}#rotate{display:none;position:fixed;inset:0;background:#213d32f5;align-items:center;justify-content:center;flex-direction:column;z-index:5}@media(orientation:portrait) and (max-width:900px){#rotate{display:flex}}button{padding:12px 24px;background:#e1c997;border:0;border-radius:8px;font-size:16px;color:#294c3d}</style></head>
 <body><canvas id="unity-canvas" tabindex="-1"></canvas><div id="loading"><div class="seal">汤</div><h1>温泉酒馆</h1><p>暖汤已备，静候入席。</p><progress id="progress" value="0" max="1"></progress><p id="status">准备酒馆 · 首次加载需要片刻</p><div id="error"></div></div><div id="rotate"><h2>横过手机，入席对弈</h2><p>横屏可以完整查看棋盘与商店。</p><button onclick="document.getElementById('rotate').style.display='none'">仍然继续</button></div>
-<script>const loading=document.getElementById('loading');const script=document.createElement('script');script.src='Build/Web.loader.js';script.onload=()=>{createUnityInstance(document.getElementById('unity-canvas'),{dataUrl:'Build/Web.data',frameworkUrl:'Build/Web.framework.js',codeUrl:'Build/Web.wasm',streamingAssetsUrl:'StreamingAssets',companyName:'Capybara Tavern',productName:'温泉酒馆自走棋',productVersion:'0.1.2',devicePixelRatio:Math.min(window.devicePixelRatio,1.5)},p=>{document.getElementById('progress').value=p;document.getElementById('status').textContent='准备酒馆 · '+Math.round(p*100)+'%'}).then(instance=>{window.capybara=instance;loading.style.display='none'}).catch(err=>{document.getElementById('error').textContent='加载失败：'+err;});};script.onerror=()=>{document.getElementById('error').textContent='未能加载游戏文件，请检查网络后刷新。'};document.body.appendChild(script);</script></body></html>
+<script>
+const release='2f9deaeebbe97a23';
+const loading=document.getElementById('loading');
+window.addEventListener('capybara-ready',()=>{loading.style.display='none';performance.mark('capybara-ready');},{once:true});
+async function prepareCache(){
+  if(!('serviceWorker' in navigator))return;
+  try{
+    await navigator.serviceWorker.register('service-worker.js?v='+release,{updateViaCache:'none'});
+    if(!navigator.serviceWorker.controller)await Promise.race([
+      new Promise(resolve=>navigator.serviceWorker.addEventListener('controllerchange',resolve,{once:true})),
+      new Promise(resolve=>setTimeout(resolve,2500))
+    ]);
+  }catch(_){}
+}
+async function boot(){
+  await prepareCache();
+  const script=document.createElement('script');
+  script.src='Build/Web.loader.js?v='+release;
+  script.onload=()=>{createUnityInstance(document.getElementById('unity-canvas'),{
+    dataUrl:'Build/Web.data?v='+release,
+    frameworkUrl:'Build/Web.framework.js?v='+release,
+    codeUrl:'Build/Web.wasm?v='+release,
+    streamingAssetsUrl:'StreamingAssets',companyName:'Capybara Tavern',productName:'温泉酒馆自走棋',productVersion:'0.1.2',
+    cacheControl:url=>url.includes('?v='+release)?'immutable':'must-revalidate',
+    devicePixelRatio:Math.min(window.devicePixelRatio,1.5)
+  },p=>{
+    document.getElementById('progress').value=p;
+    document.getElementById('status').textContent=p<1?'准备酒馆 · '+Math.round(p*100)+'%':'资源已就绪 · 正在布置庭院';
+  }).then(instance=>{window.capybara=instance;}).catch(err=>{document.getElementById('error').textContent='加载失败：'+err;});};
+  script.onerror=()=>{document.getElementById('error').textContent='未能加载游戏文件，请检查网络后刷新。'};
+  document.body.appendChild(script);
+}
+boot();
+</script></body></html>
 
