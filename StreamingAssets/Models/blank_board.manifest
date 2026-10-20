@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.6.5f1
+CRC: 1029726814
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 74da3348895138619e3296a21a862702
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e32e9ba737cac12dabb0e9c185f15c0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 27d8fa9373323d5b49230676ff327212
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f30818233f028442a2187d5cc05b387, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Vector3
+Assets:
+- Assets/_Project/Models/Runtime/blank_board/blank_board.capymodel
+Dependencies: []

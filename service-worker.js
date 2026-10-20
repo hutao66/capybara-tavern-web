@@ -1,5 +1,5 @@
 // Binary caches are release-specific; immutable portrait URLs survive updates.
-const RELEASE = '2f9deaeebbe97a23';
+const RELEASE = 'c68571ef2a3102fb';
 const APP_CACHE = 'capybara-app-' + RELEASE;
 const ART_CACHE = 'capybara-portraits-v1';
 self.addEventListener('install', event => event.waitUntil(self.skipWaiting()));
@@ -17,7 +17,8 @@ self.addEventListener('fetch', event => {
   const path = url.pathname.slice(base.length);
   const portrait = /^StreamingAssets\/Portraits\/[a-f0-9]{64}-1024-q85-v1\.jpg$/.test(path);
   const binary = path.startsWith('Build/') && url.searchParams.get('v') === RELEASE;
-  if (!portrait && !binary) return;
+  const model = /^StreamingAssets\/Models\/[a-z0-9_]+$/.test(path);
+  if (!portrait && !binary && !model) return;
   event.respondWith((async () => {
     let cache;
     try {

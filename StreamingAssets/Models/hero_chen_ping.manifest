@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.6.5f1
+CRC: 1816372040
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f498451c0d7aa0c7fb63ccef1fdb2172
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e32e9ba737cac12dabb0e9c185f15c0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e32d362303608b1c77ddd83a7ae51353
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f30818233f028442a2187d5cc05b387, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Vector3
+Assets:
+- Assets/_Project/Models/Runtime/hero_chen_ping/hero_chen_ping.capymodel
+Dependencies: []

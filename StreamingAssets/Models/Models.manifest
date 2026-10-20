@@ -1,0 +1,123 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.6.5f1
+CRC: 1032614855
+HashAppended: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: blank_board
+      Dependencies: {}
+    Info_1:
+      Name: form_cai_yan_gong
+      Dependencies: {}
+    Info_2:
+      Name: form_cai_yan_jue
+      Dependencies: {}
+    Info_3:
+      Name: form_cai_yan_shang
+      Dependencies: {}
+    Info_4:
+      Name: form_cai_yan_yu
+      Dependencies: {}
+    Info_5:
+      Name: form_cai_yan_zhi
+      Dependencies: {}
+    Info_6:
+      Name: form_liu_bang_gaozu
+      Dependencies: {}
+    Info_7:
+      Name: form_liu_bang_hanzhong
+      Dependencies: {}
+    Info_8:
+      Name: form_wujian_shaonv
+      Dependencies: {}
+    Info_9:
+      Name: form_xima_guniang
+      Dependencies: {}
+    Info_10:
+      Name: form_yuji
+      Dependencies: {}
+    Info_11:
+      Name: hero_cao_can
+      Dependencies: {}
+    Info_12:
+      Name: hero_chen_ping
+      Dependencies: {}
+    Info_13:
+      Name: hero_ding_gong
+      Dependencies: {}
+    Info_14:
+      Name: hero_fan_kuai
+      Dependencies: {}
+    Info_15:
+      Name: hero_fan_zeng
+      Dependencies: {}
+    Info_16:
+      Name: hero_gongsun_daniang
+      Dependencies: {}
+    Info_17:
+      Name: hero_guan_ying
+      Dependencies: {}
+    Info_18:
+      Name: hero_han_xin
+      Dependencies: {}
+    Info_19:
+      Name: hero_ji_bu
+      Dependencies: {}
+    Info_20:
+      Name: hero_li_qingzhao
+      Dependencies: {}
+    Info_21:
+      Name: hero_long_ju
+      Dependencies: {}
+    Info_22:
+      Name: hero_lv_zhu
+      Dependencies: {}
+    Info_23:
+      Name: hero_nong_yu
+      Dependencies: {}
+    Info_24:
+      Name: hero_su_xiaoxiao
+      Dependencies: {}
+    Info_25:
+      Name: hero_wang_qiang
+      Dependencies: {}
+    Info_26:
+      Name: hero_xiahou_ying
+      Dependencies: {}
+    Info_27:
+      Name: hero_xiang_sheng
+      Dependencies: {}
+    Info_28:
+      Name: hero_xiang_yu
+      Dependencies: {}
+    Info_29:
+      Name: hero_xiang_zhuang
+      Dependencies: {}
+    Info_30:
+      Name: hero_xiao_he
+      Dependencies: {}
+    Info_31:
+      Name: hero_xue_tao
+      Dependencies: {}
+    Info_32:
+      Name: hero_yang_yuhuan
+      Dependencies: {}
+    Info_33:
+      Name: hero_zhang_liang
+      Dependencies: {}
+    Info_34:
+      Name: hero_zhongli
+      Dependencies: {}
+    Info_35:
+      Name: hero_zhou_bo
+      Dependencies: {}
+    Info_36:
+      Name: hero_zhuo_wenjun
+      Dependencies: {}
+    Info_37:
+      Name: transport_vehicle
+      Dependencies: {}
+    Info_38:
+      Name: yu_ziqi
+      Dependencies: {}
